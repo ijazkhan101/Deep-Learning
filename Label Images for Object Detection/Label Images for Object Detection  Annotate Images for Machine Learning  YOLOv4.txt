@@ -1,0 +1,23 @@
+1st download 
+Label Studio is a modern, multi-modal data annotation tool
+LabelImg, the popular image annotation tool created by Tzutalin with the help of dozens contributors, is no longer actively being developed and has become part of the Label Studio community. Check out Label Studio, the most flexible open source data labeling tool for images, text, hypertext, audio, video and time-series data. Install Label Studio and join the slack community to get started.
+
+
+watch this video onm youtube as well
+https://www.youtube.com/watch?v=fjynQ9P2C08
+
+
+https://github.com/heartexlabs/labelImg
+
+then creat new env 
+
+
+my env is yolov5
+
+
+2nd : run these commands 
+
+pip install sip
+pip install PyQt5
+pyrcc5 -o libs/resources.py resources.qrc
+python labelImg.py
